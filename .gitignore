@@ -1,0 +1,49 @@
+# --------------------------
+# Python
+# --------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.sqlite3
+*.db
+*.egg-info/
+*.egg
+
+# --------------------------
+# Virtual environments
+# --------------------------
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# --------------------------
+# IDE / Editor
+# --------------------------
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# --------------------------
+# Data files (generated)
+# --------------------------
+*.csv
+*.nc
+*.h5
+*.log
+
+# --------------------------
+# OS files
+# --------------------------
+.DS_Store
+Thumbs.db
+
+# --------------------------
+# Optional: Jupyter Notebook checkpoints
+# --------------------------
+.ipynb_checkpoints/
